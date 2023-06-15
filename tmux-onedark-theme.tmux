@@ -6,7 +6,7 @@ onedark_red="#e06c75"
 onedark_white="#aab2bf"
 onedark_green="#98c379"
 onedark_visual_grey="#3e4452"
-onedark_comment_grey="#5c6370"
+onedark_comment_grey="#6b7282"
 
 get() {
    local option=$1
